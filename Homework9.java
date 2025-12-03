@@ -1,6 +1,5 @@
 import java.util.*;
 import java.io.*;
-import java.io.FileNotFoundException;
 
 public class Homework9 {
     public static void main(String[] args) {
@@ -66,4 +65,5 @@ public class Homework9 {
 
         sc.close();
     }
+
 }
